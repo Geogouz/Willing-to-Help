@@ -1,4 +1,4 @@
-**Willing to Help (WTH)** is a QGIS 2.14 plugin, which was developed as a part of the course GEO1005 of Master of Geomatics. The plugin takes simulated timed data to manage and track volunteered resources in a disaster situation in the Netherlands.
+**Willing to Help (WTH)** is a QGIS plugin and a prototype App that was developed for managing and tracking volunteered resources in a disaster situation, using Gamification principles.
 
 **Basic functionalities include:**  
 * Tracking volunteered resources   
